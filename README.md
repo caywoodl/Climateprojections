@@ -3,6 +3,7 @@ and identifying spatial hotspots of permafrost thaw risk in the North Slope Boro
 The workflow integrates Python preprocessing with ArcGIS Pro spatial analysis tools.
 
 Workflow Summary
+
 Download CMIP6 NetCDF projections → Inspect dimensions & metadata
 Crop to North Slope Borough → Convert temperatures to °C
 Calculate annual TDD → Export GeoTIFF
