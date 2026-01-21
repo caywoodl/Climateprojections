@@ -2,7 +2,7 @@ This repository contains the methodology and workflow for calculating Thawing De
 and identifying spatial hotspots of permafrost thaw risk in the North Slope Borough of Alaska using downscaled CMIP6 climate projections. 
 The workflow integrates Python preprocessing with ArcGIS Pro spatial analysis tools.
 
-              Workflow Summary
+Workflow Summary
 Download CMIP6 NetCDF projections → Inspect dimensions & metadata
 Crop to North Slope Borough → Convert temperatures to °C
 Calculate annual TDD → Export GeoTIFF
